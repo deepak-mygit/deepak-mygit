@@ -1,3 +1,4 @@
+![logo](https://github.com/deepak-mygit/deepak-mygit/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
